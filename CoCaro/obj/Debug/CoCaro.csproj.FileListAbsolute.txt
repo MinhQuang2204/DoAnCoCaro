@@ -1,0 +1,90 @@
+D:\DoAnOOP\CoCaro\bin\Debug\CoCaro.exe.config
+D:\DoAnOOP\CoCaro\bin\Debug\CoCaro.exe
+D:\DoAnOOP\CoCaro\bin\Debug\CoCaro.pdb
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.exe
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.pdb
+D:\DoAnOOP\CoCaro\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Text.Json.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Memory.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Text.Encodings.Web.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Numerics.Vectors.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DoAnOOP\CoCaro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAnOOP\CoCaro\bin\Debug\System.Buffers.dll
+D:\DoAnOOP\CoCaro\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.exe.config
+D:\DoAnOOP\CoCaro\bin\Debug\Interop.WMPLib.dll
+D:\DoAnOOP\CoCaro\bin\Debug\AxInterop.WMPLib.dll
+D:\DoAnOOP\CoCaro\obj\Debug\Interop.WMPLib.dll
+D:\DoAnOOP\CoCaro\obj\Debug\AxInterop.WMPLib.dll
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.csproj.ResolveComReference.cache
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.FormMusic.resources
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.csproj.CopyComplete
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.FormGame.resources
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.Form1Player.resources
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.Form2Player.resources
+D:\DoAnOOP\CoCaro\obj\Debug\CoCaro.FormStart.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.exe.config
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.exe
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.pdb
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Newtonsoft.Json.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Text.Json.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Memory.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Text.Encodings.Web.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Numerics.Vectors.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Buffers.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Newtonsoft.Json.xml
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Interop.WMPLib.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\AxInterop.WMPLib.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.exe.config
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\Interop.WMPLib.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\AxInterop.WMPLib.dll
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.ResolveComReference.cache
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Form1Player.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Form2Player.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormGame.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormMusic.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormStart.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.CopyComplete
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.exe
+E:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.pdb
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.exe.config
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.exe
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\CoCaro.pdb
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Newtonsoft.Json.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Memory.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Numerics.Vectors.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\System.Buffers.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Newtonsoft.Json.xml
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\Interop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\bin\Debug\AxInterop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.AssemblyReference.cache
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.SuggestedBindingRedirects.cache
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.exe.config
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\Interop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\AxInterop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.ResolveComReference.cache
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Form1Player.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Form2Player.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormGame.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormMusic.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.FormStart.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.cache
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.CoreCompileInputs.cache
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.csproj.CopyComplete
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.exe
+D:\Lập Trình Hướng Đối Tượng\đồ án\DoAnOOP-master\CoCaro\obj\Debug\CoCaro.pdb
